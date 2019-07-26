@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yakusoku Geiko</string>
+    <string name="attack">Aanval</string>
+    <string name="defense">Verdediging</string>
+    <string name="not_set">Onbekende waarde</string>
+    <string name="action_settings">Instellingen</string>
+</resources>

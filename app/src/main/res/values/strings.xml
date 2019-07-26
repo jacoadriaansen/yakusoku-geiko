@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Yakusoku Geiko</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_set">Not set :(</string>
+    <string name="defense">Defense</string>
+    <string name="attack">Attack</string>
+</resources>

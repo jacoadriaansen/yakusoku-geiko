@@ -1,0 +1,38 @@
+{
+  "attacks": [
+    "Dosukute Dori",
+    "Gyakute Dori",
+    "Gyakuzuki",
+    "Junte Dori",
+    "Junzuki",
+    "Katate Dori Kubi Shime",
+    "Maegeri",
+    "Mawashi Empi Uchi",
+    "Muna Dori",
+    "Ryo Sode Dori",
+    "Ryote Dori",
+    "Ryote Ippon Dori",
+    "Ushiro Eri Dori",
+    "Ushiro Ryote Dori",
+    "Yoko Uraken Uchi"
+  ],
+  "defenses": [
+    "Goshi Nage",
+    "Hashi Mawashi",
+    "Kata Ha Otoshi",
+    "Kote Kudaki",
+    "Mae Hiji Kuddaki",
+    "Mukae Doshi",
+    "Negi Kote Gaeshi",
+    "Robuse",
+    "Shiho Nage",
+    "Tenbin Nage",
+    "Ura Kata Ha otoshi",
+    "Ura Ude Nage",
+    "Ushiro Hiji Kudaki",
+    "Ushiro Hiki Otoshi",
+    "Ushiro Kata Otoshi",
+    "Ushiro Uwate",
+    "Yuki Chigae"
+  ]
+}
