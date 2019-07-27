@@ -10,8 +10,6 @@ import kotlinx.android.synthetic.main.content_main.*
 import nl.rptx.yakusokugeiko.repositories.readTechniques
 import nl.rptx.yakusokugeiko.tasks.createState
 
-data class Techniques(val attacks: List<String>, val defenses: List<String>)
-
 class MainActivity : AppCompatActivity(), TechniqueFragment.OnFragmentInteractionListener {
     private lateinit var state: YakuSokuGeikoState
 
@@ -61,6 +59,5 @@ class MainActivity : AppCompatActivity(), TechniqueFragment.OnFragmentInteractio
 
     override fun onFragmentInteraction(uri: Uri) {
     }
-
 }
 
